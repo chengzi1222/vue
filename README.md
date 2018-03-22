@@ -1,2 +1,2 @@
-# vue
-相关项目搭建。未修改版本，不可下载。有错
+# smart-web 
+[查看WIKI](http://tog-wiki.ybveg.com/kai-fa-shou-ce/qian-duan-gong-cheng.html)
